@@ -13,7 +13,7 @@ function App() {
     <div className="App">            
       <div className="container">
         <div className="columns">
-          <div className="column is-one-quarter navbar-menu" id="navMenu">
+          <div className="column is-one-fifth">
             <nav className="navbar" role="navigation" aria-label="main navigation">
               <div className="navbar-brand">
                 <img src={logo} className="App-logo" alt="logo" />
